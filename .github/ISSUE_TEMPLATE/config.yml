@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Paper2Lab Runbook
+    url: https://github.com/your-org/paper2lab/blob/main/docs/runbook.md
+    about: Check local run instructions before opening an environment issue.
+

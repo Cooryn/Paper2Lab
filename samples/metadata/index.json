@@ -1,0 +1,8 @@
+{
+  "generated_by": "Paper2Lab",
+  "files": [
+    "medical_seg_adapter.json",
+    "multimodal_agents_survey.json",
+    "rag_eval_guardrails.json"
+  ]
+}

@@ -1,0 +1,4 @@
+Epoch 3/20
+step=431 loss=nan
+WARNING: gradient overflow. scaler has skipped the step.
+

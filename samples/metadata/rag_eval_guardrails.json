@@ -1,0 +1,12 @@
+{
+  "title": "RAGBench Guardrails: A Practical Evaluation Pipeline for Retrieval-Augmented Generation",
+  "authors": ["Amir Patel", "Chen Yu"],
+  "abstract": "RAGBench Guardrails defines a retrieval and answer evaluation pipeline for RAG systems. The method combines document recall checks, citation faithfulness scoring, error taxonomy analysis, and a lightweight baseline implemented in PyTorch and FAISS. The paper positions itself as a reproducible benchmark for RAG evaluation workflows.",
+  "source_url": "https://example.org/ragbench-guardrails",
+  "pdf_path": "samples/papers/rag_guardrails.pdf",
+  "published_at": "2026-04-09T09:30:00Z",
+  "priority": 2,
+  "tags": ["RAG evaluation", "benchmark", "retrieval"],
+  "import_source": "sample"
+}
+

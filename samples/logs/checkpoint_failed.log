@@ -1,0 +1,3 @@
+RuntimeError: Error(s) in loading state_dict for SegModel:
+size mismatch for decoder.head.weight: copying a param with shape torch.Size([32, 256]) from checkpoint, the shape in current model is torch.Size([16, 256]).
+

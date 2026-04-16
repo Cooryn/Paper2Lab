@@ -1,0 +1,12 @@
+{
+  "title": "MM-Scout: Tracking Multimodal Agents with Structured Tool Feedback",
+  "authors": ["Lina Zhou", "Qiang Sun", "Yifei Zhao"],
+  "abstract": "We present MM-Scout, a multimodal agent framework that couples perception modules, tool feedback memory, and task decomposition to improve long-horizon instruction following. The paper studies multimodal agents, uses MMMU-style evaluation together with internal tool traces, and reports accuracy and pass@1 across planning-heavy benchmarks.",
+  "source_url": "https://arxiv.org/abs/2401.12345",
+  "pdf_path": "samples/papers/mm_scout.pdf",
+  "published_at": "2026-04-10T10:00:00Z",
+  "priority": 1,
+  "tags": ["multimodal agents", "planning", "tool-use"],
+  "import_source": "sample"
+}
+

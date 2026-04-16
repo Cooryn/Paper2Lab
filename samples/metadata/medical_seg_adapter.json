@@ -1,0 +1,12 @@
+{
+  "title": "MedSegAdapter: Parameter-Efficient Medical Image Segmentation with Clinical Prompts",
+  "authors": ["Sofia Kim", "Haoran Li", "Ming Zhang"],
+  "abstract": "MedSegAdapter introduces a parameter-efficient segmentation architecture for medical image segmentation with prompt-guided adaptation. It evaluates on MIMIC-derived imaging cohorts and reports Dice, IoU, and recall. The paper notes that privacy constraints and checkpoint compatibility are important risks for reproduction.",
+  "source_url": "https://arxiv.org/abs/2402.54321",
+  "pdf_path": "samples/papers/medseg_adapter.pdf",
+  "published_at": "2026-04-08T08:15:00Z",
+  "priority": 2,
+  "tags": ["medical image segmentation", "adapter", "prompting"],
+  "import_source": "sample"
+}
+
